@@ -9,7 +9,7 @@ Para ello, ejecuta lo siguiente:
 
 npm install 
 
-### Ejecutar el proyecto:
+## Ejecutar el proyecto:
 
 Una vez que el proyecto está listo para ser ejecutado, ejecuta lo siguiente:
 
@@ -17,7 +17,7 @@ npm run dev
 
 De esta manera, el proyecto se ejecutará en el navegador.
 
-#### Componentes y clases principales del proyecto:
+## Componentes y clases principales del proyecto:
 
 - App.tsx --> Este es el componente principal, donde se realiza la llamada al componente AlumList.
 
@@ -27,7 +27,7 @@ De esta manera, el proyecto se ejecutará en el navegador.
 
 - Alumno.ts --> Esta es la clase alumno formada por el nombre, los apellidos y la nota.
 
-##### Funcionalidades:
+## Funcionalidades:
 
 Estas son las funcionalidades que se han implementado:
 
@@ -35,6 +35,6 @@ Estas son las funcionalidades que se han implementado:
 - Ver la lista de alumnos.
 - Ver promedio de notas.
 
-###### Otros detalles:
+## Otros detalles:
 
 Se ha añadido un css básico en el fichero index.css.
